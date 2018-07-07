@@ -1,0 +1,7 @@
+C:\Users\thorp\source\repos\GC_Prework_Lab1Part1\GC_Prework_Lab1Part1\obj\Debug\GC_Prework_Lab1Part1.csprojAssemblyReference.cache
+C:\Users\thorp\source\repos\GC_Prework_Lab1Part1\GC_Prework_Lab1Part1\obj\Debug\GC_Prework_Lab1Part1.csproj.CoreCompileInputs.cache
+C:\Users\thorp\source\repos\GC_Prework_Lab1Part1\GC_Prework_Lab1Part1\bin\Debug\GC_Prework_Lab1Part1.exe.config
+C:\Users\thorp\source\repos\GC_Prework_Lab1Part1\GC_Prework_Lab1Part1\bin\Debug\GC_Prework_Lab1Part1.exe
+C:\Users\thorp\source\repos\GC_Prework_Lab1Part1\GC_Prework_Lab1Part1\bin\Debug\GC_Prework_Lab1Part1.pdb
+C:\Users\thorp\source\repos\GC_Prework_Lab1Part1\GC_Prework_Lab1Part1\obj\Debug\GC_Prework_Lab1Part1.exe
+C:\Users\thorp\source\repos\GC_Prework_Lab1Part1\GC_Prework_Lab1Part1\obj\Debug\GC_Prework_Lab1Part1.pdb
